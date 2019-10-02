@@ -1,5 +1,3 @@
-// BSTree.c ... implementation of binary search tree ADT
-
 #include <assert.h>
 #include <err.h>
 #include <stdio.h>
@@ -8,7 +6,6 @@
 #include <sysexits.h>
 
 #include "BSTree.h"
-#include "Queue.h"
 
 ///////////////////////////////////////////////////////////////////////////////////
 // binary tree needs
